@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace aspnet_core_api.Models
+namespace aspnet_core_api.ViewModels
 {
     public class AuthenticateRequest
     {
